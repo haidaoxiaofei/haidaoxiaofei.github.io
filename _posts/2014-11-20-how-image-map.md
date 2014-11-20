@@ -5,7 +5,7 @@ title:  "How to Use an Image as Map in TileMill"
 tags: [Map Generator]
 ---
 
-TileMill is an open source tools to generate a personal map, which can then be used in OpenStreetMap or MapBox.
+[TileMill](https://www.mapbox.com/tilemill/) is an open source tools to generate a personal map, which can then be used in OpenStreetMap or MapBox.
 
 Here is a [tutorial](http://www.macwright.org/2012/08/13/images-as-maps.html) about how to use GDAL to warp an image into GIS system required formation. 
 
