@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "gis"
-title:  "how to use an image as map in TileMill"
+title:  "How to use an image as map in TileMill"
 tags: [Map Generator]
 ---
 
