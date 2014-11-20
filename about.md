@@ -3,7 +3,7 @@ layout: default
 title: "关于：About"
 ---
 ####Basic Info
-My name is Pan Xuewen, I'm 29, married, living in Hongshan, Wuhan.  
+Hi, I am CHENG Peng, a PhD student in CSE, HKUST. I was born in 1989, in Shaanxi, China.
 
 ####IT skills
 1.4 years experience in Android application development, team leader of 10+ enterprise level Application.  
@@ -26,8 +26,8 @@ Android Development Engineer
 Android Development Engineer  
 
 ####Links
-Blog    <http://www.winfirm.cn>  
-GitHub  <https://github.com/panxw>  
+Blog    <http://haidaoxiaofei.github.io>  
+GitHub  <https://github.com/haidaoxiaofei>  
 
 <!-- Blog Comments -->
 <div class="media">
