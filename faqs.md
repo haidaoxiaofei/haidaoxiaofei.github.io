@@ -8,7 +8,8 @@ title: "Q&A"
 Git Reference: <http://gitref.org/>    
 Git Branch Management Strategy: <http://www.ruanyifeng.com/blog/2012/07/git.html>    
 Git Remote Branch and Tag: <http://zengrong.net/post/1746.htm>
-
+####video
+1.BlackBerry Rock. <link rel="canonical" href="http://www.techug.com/blackberry-mobile" />
 Welcome to comment~
 
 <!-- Blog Comments -->
