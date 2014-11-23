@@ -18,3 +18,12 @@ This is [a sample of T-Drive trajectory dataset](http://research.microsoft.com/a
 ####3. SmartSantander
 
 [SmartSantander](http://www.smartsantander.eu) proposes a unique in the world city-scale experimental research facility in support of typical applications and services for a smart city. This unique experimental facility will be sufficiently large, open and flexible to enable horizontal and vertical federation with other experimental facilities and stimulates development of new applications by users of various types including experimental advanced research on IoT technologies and realistic assessment of users’ acceptability tests. The project envisions the deployment of 20,000 sensors in Belgrade, Guildford, Lübeck and Santander (12,000), exploiting a large variety of technologies. There is [a map view](http://maps.smartsantander.eu) of SmartSantander. You should try it.
+
+
+####4. Berkeley's Mobile Century Data
+
+The [Mobile Century data](http://traffic.berkeley.edu/project/downloads/mobilecenturydata) was collected on February 8, 2008, as part of a joint UC Berkeley - Nokia project, funded by the California Department of Transportation, to support the exploration of uses of GPS enabled phones to monitor traffic. In addition to the cell phone GPS data, two additional data sources are available for the experiment site. Inductive loop detector data obtained through the Freeway Performance Measurement System (PeMS), and travel time data obtained through vehicle re-identification using high resolution video data are included with this release. All identifiers assigned to the cell phones used during the Mobile Century experiment have been randomized to protect the participants in the experiment. The video data is also processed and random number has been assigned to represent each vehicle. 
+
+####5. IEEE ICDM Contest 2010 (Synthetic)
+
+This [contest](http://tunedit.org/challenge/IEEE-ICDM-2010/gps) provides a quite large volume of synthetic traffic data. Maybe sometime this dataset could be used to test something. I have no idea.
