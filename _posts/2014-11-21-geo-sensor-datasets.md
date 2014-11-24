@@ -34,6 +34,6 @@ This dataset contains the current estimated congestion for the 29 traffic region
 
 A related Blog [article](http://wbezdata.tumblr.com/post/46446630030/new-data-set-alert-9-million-new-rows-worth-of-traffic) report this project's 9 million new rows worth of traffic data.
 
-####7. Beijing City Lab
+####7. Beijing City Lab*** (I like this most.)
 
 The [Beijing City Lab](http://www.beijingcitylab.com) (BCL) is a virtual research community, dedicated to studying, but not limited to, China’s capital Beijing. The Lab focuses on employing interdisciplinary methods to quantify urban dynamics, generating new insights for urban planning and governance, and ultimately producing the science of cities required for sustainable urban development. The lab's current mix of planners, architects, geographers, economists, and policy analysts lends unique research strength.
