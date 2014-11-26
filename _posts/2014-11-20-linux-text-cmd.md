@@ -34,5 +34,9 @@ Linux command line tools are really useful for text processing. This article wil
     #Show the names and login times of the currently logged in users:
     who | cut -c 1-16,26-38
 
+This command may be a little bit hard to use. Try awk instead. For example:
+
+	wc -l filename | awk {'print $1'}
+
 
 My Pocket has one Chinese [article](http://getpocket.com/a/read/158283999) that introduces some more commands.
