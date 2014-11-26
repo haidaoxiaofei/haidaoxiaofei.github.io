@@ -5,7 +5,7 @@ title:  "Pdflatex Convert .eps file to .pdf automatically on OS X"
 tags: [latex, osx]
 ---
 
-TexStudio is a amazing tool to edit latex. But something annoys me a lot is how to automatically convert .eps file to .pdf file. 
+TexStudio is a amazing tool to edit latex. However one thing annoying me a lot is how to automatically convert .eps file to .pdf file. 
 
 On ubuntu, I just include 'epstopdf' package and append '-shell-escape' to pdflatex command. Then everything goes well. Something looks like:
 

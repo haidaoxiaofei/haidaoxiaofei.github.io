@@ -37,7 +37,7 @@ This is a fun tool for dynamically browsing AOL search history.  It sometimes re
 
 [Uber: Mapping Prostitution and “The Walk of Shame”](http://dataconomy.com/uber-mapping-prostitution-and-the-walk-of-shame/) introduces two results from Uber's data scientists. Both are interesting and impressive.
 
-PS: Uber has[ an official blog](http://blog.uber.com/uberdata/) to list some news about there data. To us it is just a kind of show off (WE HAVE DATA!!!). You can learn more about Uber there.
+PS: Uber has[ an official blog](http://blog.uber.com/uberdata/) to list some news about there data. To us it is just a kind of showing off (WE HAVE DATA!!!). You can learn more about Uber there.
 
 
   -------------------------------------------
