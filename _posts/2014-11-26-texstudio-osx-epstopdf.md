@@ -9,7 +9,7 @@ TexStudio is a amazing tool to edit latex. But something annoys me a lot is how 
 
 On ubuntu, I just include 'epstopdf' package and append '-shell-escape' to pdflatex command. Then everything goes well. Something looks like:
 
-		pdflatex -synctex=1 -interaction=nonstopmode -shell-escape %.tex
+	/usr/texbin/pdflatex  -synctex=1 -interaction=nonstopmode -shell-escape %.tex
 
 On OS X, this problem really makes me headache a while. After all, I solved it at last through one not delegate method. Here is the notes:
 
