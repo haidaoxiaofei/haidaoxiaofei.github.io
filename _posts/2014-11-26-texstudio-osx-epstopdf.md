@@ -15,7 +15,7 @@ On OS X, this problem really makes me headache a while. After all, I solved it a
 
 By checking the tex's log, I found that epstopdf was not located in system searched PATH, so I created the link manully
 
-	ln -s /usr/local/texlive/2013/texmf-dist/scripts/epstopdf/epstopdf.pl /usr/local/bin/epstopdf
+	ln -s /usr/local/texlive/2014/texmf-dist/scripts/epstopdf/epstopdf.pl /usr/local/bin/epstopdf
 Also, the epstopdf complained that ghostscript is not installed. So I made it satisfied with
 
 	brew install ghostscript
