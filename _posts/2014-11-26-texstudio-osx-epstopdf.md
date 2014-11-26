@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "program"
-title:  "Pdflatex Convert .eps file to .pdf automatically on OS X"
+title:  "Convert .eps File to .pdf File Automatically with pdflatex on OS X"
 tags: [latex, osx]
 ---
 
