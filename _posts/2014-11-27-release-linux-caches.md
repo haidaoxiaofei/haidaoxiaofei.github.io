@@ -5,7 +5,6 @@ title:  "Empty Buffers and Caches on a Linux System"
 tags: [Apps]
 ---
 (This article is written by a guru [slm](http://unix.stackexchange.com/users/7453/slm) on [StackExchange](http://unix.stackexchange.com/questions/87908/how-do-you-empty-the-buffers-and-cache-on-a-linux-system).)
------
 
 
 If you ever want to empty it you can use this chain of commands.
