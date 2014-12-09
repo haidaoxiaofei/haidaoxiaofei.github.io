@@ -15,3 +15,12 @@ For Window of the World in Shenzhen, please use [DrawMarker-SZWW.apk](http://hai
 For Haiquanwan in Zhuhai, please use [DrawMarker-HQW.apk](http://haidaoxiaofei.me/d/DrawMarker-HQW.apk).
 
 If you are interested in the [source code](https://bitbucket.org/haidaoxiaofei/drawmarker), please contact me.
+
+
+####2. Fingerprints collection tool (HKUST, EPFL, Huanglong)
+
+This app can collect fingerprints which can be used to do Wi-Fi Fingerprints based indoor localization. Current, it support HKUST, EPFL, and Huanglong hotel. The maps are retrieved from lccpu4 server.
+
+To download it, please use [FP_Collector](http://haidaoxiaofei.me/d/FP_Collector.apk).
+
+If you are interested in the [source code](https://bitbucket.org/haidaoxiaofei/markerdraw), please contact me.
