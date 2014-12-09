@@ -24,3 +24,11 @@ This app can collect fingerprints which can be used to do Wi-Fi Fingerprints bas
 To download it, please use [FP_Collector](http://haidaoxiaofei.me/d/FP_Collector.apk).
 
 If you are interested in the [source code](https://bitbucket.org/haidaoxiaofei/markerdraw), please contact me.
+
+####3. WiFiLoc -- Wi-Fi based indoor localization test tool
+
+This app can test the accuracy of our indoor localization service (currently, deployed on lccpu4).
+
+To download it please use [WiFiLoc](http://haidaoxiaofei.me/d/WiFiLoc.apk).
+
+If you are interested in the [source code](https://bitbucket.org/haidaoxiaofei/wifilocalization), please contact me.
