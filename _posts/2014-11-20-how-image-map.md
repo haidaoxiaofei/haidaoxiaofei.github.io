@@ -13,7 +13,7 @@ Before run the python script, you need to install GDAL. To install GDAL on Ubunt
 
 	sudo apt-get install gdal-bin
 
-After a GeoTIFF file is generated, insert it as a layer in TileMill. Assume the id of your layer is "image" Then insert below code to the mss script.
+After a GeoTIFF file is generated, insert it as a layer in TileMill (SRS choose 900913, leave Class blank). Assume the id of your layer is "image" Then insert below code to the mss script.
 	
 	#image {
 		raster-opacity:1;
@@ -22,7 +22,7 @@ After a GeoTIFF file is generated, insert it as a layer in TileMill. Assume the 
 
 Then, if nothing wrong, you can see your image on a particular latlng position of the map. 
 
-If you like, you can upload it to MapBox server or export it as motiles file.
+If you like, you can upload it to MapBox server or export it as mbtiles file.
 
 Good luck~
 
