@@ -4,7 +4,7 @@ category: "program"
 title:  "Android Tools Collection"
 tags: [Apps]
 ---
-Here I summarise some android tools I developed.
+Here I summarize some android tools I developed.
 
 ####1. Marking tools for SZWW and Haiquanwan
 
