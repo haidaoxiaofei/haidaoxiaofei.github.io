@@ -9,7 +9,7 @@ tags: [Map Generator]
 
 Here is a [tutorial](http://www.macwright.org/2012/08/13/images-as-maps.html) about how to use GDAL to warp an image into GIS system required formation. 
 
-Before run the python script, you need to install GDAL. To install GDAL on Ubuntu is quite easy, just type in below command:
+Before run [the python script](http://haidaoxiaofei.me/d/togeo.py), you need to install GDAL. To install GDAL on Ubuntu is quite easy, just type in below command:
 
 	sudo apt-get install gdal-bin
 
