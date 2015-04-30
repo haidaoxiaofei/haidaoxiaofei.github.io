@@ -34,6 +34,6 @@ To download it please use [WiFiLoc](http://haidaoxiaofei.me/d/WiFiLoc.apk).
 If you are interested in the [source code](https://bitbucket.org/haidaoxiaofei/wifilocalization), please contact me.
 
 
-####4. BiBi -- A app just for fun. You can BiBi at anything after taking a picture!!!
+####4. BiBi -- An App just for fun. You can BiBi at anything after taking a picture!!!
 This app allow users to comment on anything after taking and uploading the picture of those. You can see other guys' comments then and "BiBi" to it too.
 To download it please access [BiBi](http://haidaoxiaofei.me/d/bibi.apk).
