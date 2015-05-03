@@ -19,6 +19,9 @@ Some good MS guy already collected a lot of useful resources for researchers. He
 
 Here is a [slides](http://haidaoxiaofei.me/d/tsinghua-mar-2013.pdf) talking about how to give a good research talk, although itself is not good enough.. The ideas are still very useful.
 
+##4. How to read research papers
+
+Are you still always reading a paper from the begin to the end? Try to read this [paper](http://haidaoxiaofei.me/d/paper-reading.pdf) first. Then you may save a large amount of time from reading worthless papers.
 
 ------
 I will update this article if new resources discovered.
