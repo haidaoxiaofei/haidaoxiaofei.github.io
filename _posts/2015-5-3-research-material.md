@@ -7,7 +7,7 @@ tags: [experience]
 
 Research life is a colourful journey, which you should enjoy, otherwise, why continue it?
 
-I find some useful materials recently. This article just collect them and try to help every research newbie, like me..
+I find some useful materials recently. I post this article just to collect them and try to help every research newbie, like me..
 
 ##1. Research skills
 Some good MS guy already collected a lot of useful resources for researchers. Here is the [link](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm). Hope you like it.
