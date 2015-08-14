@@ -4,7 +4,7 @@ category: "research"
 title:  "Reading List of Spatial Crowdsourcing"
 tags: [readinglist]
 ---
-Spatial crowdsourcing is a extension of general crowdsourcing. Specifically, in spatial crowdsourcing, crowd or workers need to physically move to a particular place associated with a spatial task. In different branch areas of computer science, this new topic has different names, such as spatial crowdsourcing, mobile crowdsourcing and participatory sensing. Here is a reading list about this topic. I will update it aperiodically.
+Spatial crowdsourcing is an extension of general crowdsourcing. Specifically, in spatial crowdsourcing, crowd or workers need to physically move to a particular place associated with a spatial task. In different branch areas of computer science, this new topic has different names, such as spatial crowdsourcing, mobile crowdsourcing and participatory sensing. Here is a reading list about this topic. I will update it aperiodically.
 
 
 1. Sadilek A, Krumm J, Horvitz E. Crowdphysics: Planned and opportunistic crowdsourcing for physical tasks[J]. SEA, 2013, 21(10,424): 125,620.
