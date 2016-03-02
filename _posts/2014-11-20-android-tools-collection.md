@@ -38,5 +38,7 @@ If you are interested in the [source code](https://bitbucket.org/haidaoxiaofei/w
 This app allow users to comment on anything after taking and uploading the picture of those. You can see other guys' comments then and "BiBi" to it too.
 To download it please access [BiBi](http://haidaoxiaofei.me/d/bibi.apk).
 
-####4. gMission Reborn -- My first Google Play App. For spatial crowdsourcing research, our team develop gMission, a general spatial crowdsourcing platform and open source it. Welcome to visit its [homepage](gmission.github.io).
+####4. gMission Reborn -- My first Google Play App.
+
+For spatial crowdsourcing research, our team develop gMission, a general spatial crowdsourcing platform and open source it. Welcome to visit its [homepage](gmission.github.io).
 To try gMission Reborn, download the latest version from [Google Play](https://play.google.com/store/apps/details?id=hk.ust.gmission&hl=en).
