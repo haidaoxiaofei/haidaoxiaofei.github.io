@@ -9,9 +9,9 @@ Long time no see! In this article, I want to summarise some experience about con
 
 ### 1. NameVirtualHost
 
-Here I first give the configuration of my server. On the server I deployed some PHP projects under "/var/www/html/", and yesterday I deployed one docker shipped project to another place. In docker, it maps a service in a virtual machine to some port of you host OS (e.g., I map it to port 9092). Then, I need to do proxying. Here, we can see the configure file proxy the port 9092 to subdomain "/gmission".
+Here I first give the configuration of my server. On the server I deployed some PHP projects under `/var/www/html/`, and yesterday I deployed one docker shipped project to another place. In docker, it maps a service in a virtual machine to some port of you host OS (e.g., I map it to port 9092). Then, I need to do proxying. Here, we can see the configure file proxy the port 9092 to subdomain `/gmission`.
 
-When we use "NameVirtualHost *:80", the corresponding "<VirtualHost *:80>" block will handle the traffic of port 80. Then, we need to maintain the traffic of the PHP projects and configure the traffic for the new docker project. Here we need to leave "DocumentRoot" as "/var/www/html/", which indicates that apache will do name based access for the projects under "/var/www/html/".
+When we use `NameVirtualHost *:80`, the corresponding `<VirtualHost *:80>` block will handle the traffic of port 80. Then, we need to maintain the traffic of the PHP projects and configure the traffic for the new docker project. Here we need to leave `DocumentRoot` as `/var/www/html/`, which indicates that apache will do name based access for the projects under `/var/www/html/`.
 
 	
 	Listen 80
@@ -46,7 +46,7 @@ When we use "NameVirtualHost *:80", the corresponding "<VirtualHost *:80>" block
 
 ### 2. Open port 80
 
-After configuring the proxy for the projects, I find I cannot access them from other machine but only can do it on the server through command line browser "w3m". Then I recognise that the problem may be caused by firewall. 
+After configuring the proxy for the projects, I find I cannot access them from other machine but only can do it on the server through command line browser `w3m`. Then I recognise that the problem may be caused by firewall. 
 
 I notice a command to add a policy to open port 80:
 	
@@ -58,7 +58,7 @@ I notice a command to add a policy to open port 80:
 	
 However, the result is not as I expected. 
 	
-After a long time of searching, I find the order of the policies in iptables will make a huge difference. In my iptables policy list, it is
+After a long time of searching, I find the order of the policies in `iptables` will make a huge difference. In my `iptables` policy list, it is
 	
 	sudo iptables -L
 	

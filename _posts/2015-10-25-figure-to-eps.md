@@ -7,14 +7,14 @@ tags: [latex]
 
 Sometime, I need to draw figures in Powerpoint then use them in my latex projects. However, Microsoft does not provide a function as "Export as eps" in Powerpoint. Here, I record how I attempted to make this happen.
 
-1. JPG to EPS
----
+## 1. JPG to EPS
+
 Use some screenshot software to capture the figures as JPG files, then convert them to eps with some online services. 
 
-Here is the one I like most:http://image.online-convert.com/convert-to-eps
+Here is [the one I like most](http://image.online-convert.com/convert-to-eps).
 
-2. PDF to EPS
----
+## 2. PDF to EPS
+
 The first option is easy, however the quality of the final eps file is low.
 
 The other choice may be exporting the figure as PDF file first, then convert it to EPS file. As PDF is vector file, the quality lost is very small. 

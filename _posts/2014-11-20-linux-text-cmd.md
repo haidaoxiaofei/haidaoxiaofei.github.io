@@ -7,7 +7,7 @@ tags: [text processing]
 
 Linux command line tools are really useful for text processing. This article will conclude some basic commands for that purpose.
 
-####1. wc : count lines and words
+#### 1. wc : count lines and words
 
 	#count how many lines a file has.
 	wc -l filename
@@ -18,16 +18,16 @@ Linux command line tools are really useful for text processing. This article wil
 	#count how many bytes a file has.
 	wc -c filename
 	
-####2. sort : sort the lines of a file
+#### 2. sort : sort the lines of a file
 	#sort the lines of a file
 	sort filename
 	
-####3. uniq : delete the duplicated line of a *sorted* file
+#### 3. uniq : delete the duplicated line of a *sorted* file
 	#In general, we use sort command before uniq. The result can be output to some file
 	sort filename | uniq > outputFile
-####4. expand : expand each tab to four spaces (unexpand can do reverse, but I did not success..)
+#### 4. expand : expand each tab to four spaces (unexpand can do reverse, but I did not success..)
 	expand filename
-####5. cut : the cut utility cuts out selected portions of each line (as specified by list) from each file and writes them to the standard output.
+#### 5. cut : the cut utility cuts out selected portions of each line (as specified by list) from each file and writes them to the standard output.
 	#Extract users' login names and shells from the system passwd(5) file as ``name:shell'' pairs:
     cut -d : -f 1,7 /etc/passwd
     

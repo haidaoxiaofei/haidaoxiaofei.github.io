@@ -9,13 +9,13 @@ Recently, I read some interesting articles about Uber GPS log data. Some are abo
 
 Let us have a look at the articles.
 
-####1. Use Matlab to Analyse Uber GPS Public Dataset
+#### 1. Use Matlab to Analyse Uber GPS Public Dataset
 
 
 
 This [article](http://blogs.mathworks.com/loren/2014/09/06/analyzing-uber-ride-sharing-gps-data/) shows to us which day in a week people use Uber most and their moving trends. All of the result comes from some Matlab code, which is shared.
 
-####2. Data in Sight of Infochimps Datasets
+#### 2. Data in Sight of Infochimps Datasets
 
 
 A group of 11 judges (including myself) evaluated the teams’ efforts and while most of the teams created some impressive results, they quickly agreed upon the ones they thought were the best.  There were five prize categories, and 4 out of the 5 winners used Infochimps data!
@@ -33,7 +33,7 @@ This tool lets you browse and cluster the destruction caused by disasters over t
 PEOPLE’S CHOICE: CuriouSnakes
 This is a fun tool for dynamically browsing AOL search history.  It sometimes reveals unexpected wisdom about human nature.
 
-####3. Uber's Data Scientists' Masterpiece
+#### 3. Uber's Data Scientists' Masterpiece
 
 [Uber: Mapping Prostitution and “The Walk of Shame”](http://dataconomy.com/uber-mapping-prostitution-and-the-walk-of-shame/) introduces two results from Uber's data scientists. Both are interesting and impressive.
 
