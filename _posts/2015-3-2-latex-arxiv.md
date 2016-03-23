@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "program"
-title:  "Successfully Upload Your Academic Paper to arXiv"
+title:  "Notes for Uploading Academic Paper to arXiv"
 tags: [Apps]
 ---
 
