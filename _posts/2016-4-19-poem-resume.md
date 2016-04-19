@@ -25,6 +25,7 @@ Gas smells awful;
 
 You might as well live.
 
+------
 
 	Dorothy Parker (1893–1967)
 
