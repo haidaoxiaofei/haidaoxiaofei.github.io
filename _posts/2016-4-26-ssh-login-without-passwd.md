@@ -37,6 +37,19 @@ From now on you can log into B as b from A as a without password:
 
 	a@A:~> ssh b@B
 	
+	
+If you want to config rsa for multiple hosts with different keys. You need to configure `.ssh/config` file like below:
+
+	Host bitbucket.org #host base url
+	  IdentityFile ~/.ssh/bitbucket #private key
+	
+	or to create an alias as below:
+	
+	Host alias
+	  User user #user name
+	  HostName host_url
+	  IdentityFile ~/.ssh/rsa #private key
+	
 Important Note
 ---
 
@@ -47,6 +60,13 @@ A note from one of our readers: Depending on your version of SSH you might also 
 * Change the permissions of `.ssh` to 700
 
 * Change the permissions of `.ssh/authorized_keys2` to 640
+
+One more thing
+---
+If you want to login directly to tmux, you can add alias below:
+
+	alias thost="ssh user@host -t \"tmux new-session -s user || tmux attach-session -t user\""
+
 
 
 Original Blog is written by Mathias Kettner and posted on [linuxproble.org](http://www.linuxproblem.org/art_9.html)
