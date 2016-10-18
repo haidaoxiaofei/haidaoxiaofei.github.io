@@ -37,3 +37,7 @@ A related Blog [article](http://wbezdata.tumblr.com/post/46446630030/new-data-se
 #### 7. Beijing City Lab*** (I like this most.)
 
 The [Beijing City Lab](http://www.beijingcitylab.com) (BCL) is a virtual research community, dedicated to studying, but not limited to, China’s capital Beijing. The Lab focuses on employing interdisciplinary methods to quantify urban dynamics, generating new insights for urban planning and governance, and ultimately producing the science of cities required for sustainable urban development. The lab's current mix of planners, architects, geographers, economists, and policy analysts lends unique research strength.
+
+#### 8. KONECT Networks Dataset Collection***
+
+[KONECT](http://konect.uni-koblenz.de) (the Koblenz Network Collection) is a project to collect large network datasets of all types in order to perform research in network science and related fields, collected by the Institute of Web Science and Technologies at the University of Koblenz–Landau.
