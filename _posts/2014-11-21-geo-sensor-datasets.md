@@ -38,3 +38,18 @@ A related Blog [article](http://wbezdata.tumblr.com/post/46446630030/new-data-se
 
 The [Beijing City Lab](http://www.beijingcitylab.com) (BCL) is a virtual research community, dedicated to studying, but not limited to, China’s capital Beijing. The Lab focuses on employing interdisciplinary methods to quantify urban dynamics, generating new insights for urban planning and governance, and ultimately producing the science of cities required for sustainable urban development. The lab's current mix of planners, architects, geographers, economists, and policy analysts lends unique research strength.
 
+#### 8. KONECT Networks Dataset Collection***
+
+[KONECT](http://konect.uni-koblenz.de) (the Koblenz Network Collection) is a project to collect large network datasets of all types in order to perform research in network science and related fields, collected by the Institute of Web Science and Technologies at the University of Koblenz–Landau.
+
+
+#### 9. 9th DIMACS Implementation Challenge - Shortest Paths
+
+The [9th DIMACS Implementation Challenge - Shortest Paths](http://www.dis.uniroma1.it/challenge9/) is a Challenge is to create a reproducible picture of the state of the art in the area of shortest path algorithms. To this end we are identifying a standard set of benchmark instances and generators, as well as benchmark implementations of well-known shortest path algorithms. It provides road networks datasets of USA for participators.
+
+
+#### 10. OpenStreetMap Data Extracts
+
+[This server](http://download.geofabrik.de) has data extracted from the [OpenStreetMap project](http://www.openstreetmap.org) which is normally updated every day. Select your continent and then your country of interest from the list below. (If you have been directed to this page from elsewhere and are not familiar with OpenStreetMap, we highly recommend that you read up on OSM before you use the data.) The download service is offered for free by Geofabrik GmbH. 
+
+In addition, there is a [tool](https://github.com/Project-OSRM/osrm-backend/wiki/Running-OSRM) to analyse the data of OSM.
