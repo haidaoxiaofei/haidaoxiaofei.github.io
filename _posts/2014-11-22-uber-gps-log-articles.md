@@ -5,6 +5,7 @@ title:  "Articles about Uber GPS Log"
 tags: [Uber, Bigdata]
 ---
 
+
 Recently, I read some interesting articles about Uber GPS log data. Some are about a public dataset, which has become invalid unfortunately. But some good guy puts the dataset on [Github](https://github.com/dima42/uber-gps-analysis/tree/master/gpsdata). You can try it by yourself.
 
 Let us have a look at the articles.
