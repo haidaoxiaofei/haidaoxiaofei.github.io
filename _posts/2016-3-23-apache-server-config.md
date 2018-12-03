@@ -22,7 +22,7 @@ When we use `NameVirtualHost *:80`, the corresponding `<VirtualHost *:80>` block
     
         ServerAdmin pchengaa@ust.hk
         DocumentRoot /var/www/html/
-        ServerName http://lccpu4.cse.ust.hk
+        ServerName http://lccpu4
         ErrorLog logs/all-error.log
         CustomLog logs/all-access.log common
         RewriteEngine On
